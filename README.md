@@ -1,9 +1,10 @@
-# rMIB-PB
-This is the repo for regularized Matched Interface and Boundary (rMIB) Poisson-Boltzmann solver
+# rMIB-PMPB
+This is the repo for the point-multipole Poisson-Boltzmann model solved by the regularized Matched Interface and Boundary (rMIB) solver.
 
 
 ## References:
 1.  W. Geng and S. Zhao, A two-component Matched Interface and Boundary (MIB) regularization for charge singularity in implicit solvation, J. Comput. Phys., 351, 25-39 (2017).
+2.  X. Yang, S. Zhao, W. Geng, A regularized Matched Interface and Boundary Method (MIB) for Solving Polarizable Multipole Poisson-Boltzmann model, in preparation.
 
 
 ## Usage:
